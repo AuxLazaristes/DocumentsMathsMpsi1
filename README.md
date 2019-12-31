@@ -16,7 +16,7 @@ Voici la liste des exercices de la semaine, portant sur la dérivation. Le corri
 * Lundi : 1.5 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.5.pdf
   * Indication pour ln(x^2-x+2) : factoriser dans C le trinome et ne pas trop se poser de question sur d'éventuels logarithmes de nombres complexes afin de trouver une formule. Puis prouver cette formule par récurrence.
   * Indication pour les deux derniers : ne pas oublier le fait qu'on demande de calculer la dérivee n-ieme d'une expression qui dépend de n. 
-* Mardi : 1.1
+* Mardi : 1.1 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.1.pdf
 * Mercredi : 2.2
 * Jeudi : 2.3
 * Vendredi : 1.1
