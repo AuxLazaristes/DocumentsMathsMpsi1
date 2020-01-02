@@ -5,7 +5,6 @@
 
 * Lundi 30/12 : Le DM 7 à rendre (1 copie pour deux) pour le 13 janvier est disponible
 * Lundi 30/12 : Un récapitulatif des algorithmes de base en Python est disponible
-* Lundi 30/12 : La correction de l'exercice 1.5 sur la dérivation est disponible
 * Dimanche 29/12 : Les cours d'informatique du premier trimestre sont disponibles
 * Samedi 28/12 : Une préversion des cours et des exercices sur la prochaine période (janvier-février) et désormais disponible.
 
@@ -17,7 +16,7 @@ Voici la liste des exercices de la semaine, portant sur la dérivation. Le corri
   * Indication pour ln(x^2-x+2) : factoriser dans C le trinome et ne pas trop se poser de question sur d'éventuels logarithmes de nombres complexes afin de trouver une formule. Puis prouver cette formule par récurrence.
   * Indication pour les deux derniers : ne pas oublier le fait qu'on demande de calculer la dérivee n-ieme d'une expression qui dépend de n. 
 * Mardi : 1.1 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.1.pdf
-* Mercredi : 2.2
+* Mercredi : 2.2 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.2.pdf
 * Jeudi : 2.3
 * Vendredi : 1.1
 * Samedi : 2.4
