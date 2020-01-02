@@ -17,7 +17,7 @@ Voici la liste des exercices de la semaine, portant sur la dérivation. Le corri
   * Indication pour les deux derniers : ne pas oublier le fait qu'on demande de calculer la dérivee n-ieme d'une expression qui dépend de n. 
 * Mardi : 1.1 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.1.pdf
 * Mercredi : 2.2 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.2.pdf
-* Jeudi : 2.3
+* Jeudi : 2.3 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.3.pdf
 * Vendredi : 1.1
 * Samedi : 2.4
 
