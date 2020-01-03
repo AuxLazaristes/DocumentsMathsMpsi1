@@ -19,7 +19,7 @@ Voici la liste des exercices de la semaine, portant sur la dérivation. Le corri
 * Mardi : 1.1 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.1.pdf
 * Mercredi : 2.2 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.2.pdf
 * Jeudi : 2.3 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.3.pdf
-* Vendredi : 1.1
+* Vendredi : 1.1 - Le corrigé est déjà disponible ;-)
 
 ## Agenda
 
@@ -76,5 +76,3 @@ Les colles en MPSI reprendront la semaine du 27 janvier.
 * Semaine du 8 au 12 juin : Probabilités
 * Semaine du 15 au 19 juin : Variables aléatoires
 * Semaine du 22 au 24 juin : Concours blanc
-
-
