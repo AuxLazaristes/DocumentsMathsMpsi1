@@ -1,33 +1,10 @@
 # Documents Maths & Python en MPSI 1 - Aux Lazaristes
 
 ---
+
 ## Les nouveautés du site
 
-* Jeudi 2/1 : J'ai annulé l'exercice pour samedi. Je vous ai bien sollicité pendant les vacances, donc profitez du weekend.
-* Lundi 30/12 : Le DM 7 à rendre (1 copie pour deux) pour le 13 janvier est disponible
-* Lundi 30/12 : Un récapitulatif des algorithmes de base en Python est disponible
-* Dimanche 29/12 : Les cours d'informatique du premier trimestre sont disponibles
-* Samedi 28/12 : Une préversion des cours et des exercices sur la prochaine période (janvier-février) et désormais disponible.
-
-## Exercices sur la dérivation
-
-Voici la liste des exercices de la semaine, portant sur la dérivation. Le corrigé de chaque exercice sera donné sur ce site en milieu d'après-midi.
-
-* Lundi : 1.5 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.5.pdf
-  * Indication pour ln(x^2-x+2) : factoriser dans C le trinome et ne pas trop se poser de question sur d'éventuels logarithmes de nombres complexes afin de trouver une formule. Puis prouver cette formule par récurrence.
-  * Indication pour les deux derniers : ne pas oublier le fait qu'on demande de calculer la dérivee n-ieme d'une expression qui dépend de n. 
-* Mardi : 1.1 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-1.1.pdf
-* Mercredi : 2.2 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.2.pdf
-* Jeudi : 2.3 - Le corrigé de l'exercice et disponible dans Maths/ExercicesCorriges/exercice-derivation-2.3.pdf
-* Vendredi : 1.1 - Le corrigé est déjà disponible ;-)
-
-## Agenda
-
-Voici la liste des exercices à faire pour la prochaine séance ainsi que les initiales (Prénom/Nom) de l'élève qui passera le présenter au tableau.
-
-* Lundi 6 janvier :
-  * Dérivation, 1.2 : EB
-  * Dérivation, 2.1 : AB
+* Mercredi 8 janvier : Le sujet et le corrigé du TP sur les nombres flottants.
 
 ---
 
