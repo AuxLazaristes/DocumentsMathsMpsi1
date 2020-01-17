@@ -4,6 +4,7 @@
 
 ## Les nouveautés du site
 
+* Vendredi 17 janvier : Corrigé du DM 6 et du DM 7bis (convexité).
 * Dimanche 12 janvier : Corrigé du DM 7, sujet de Python à lire pour mercredi.
 * Mercredi 8 janvier : Le sujet et le corrigé du TP sur les nombres flottants.
 
