@@ -4,6 +4,10 @@
 
 ## Les nouveautés du site
 
+* Samedi 8 février :
+    * Exemples de calculs de primitives du cours sur les fractions rationnelles (Cours/Notes/fractions-rationnelles.pdf)
+    * Cours sur les fonctions usuelles (Cours/Revisions/cours-fonctions_usuelles.pdf)
+    * Sous-groupes additifs de R (Devoirs/DM-08/sous-groupes-additifs-de-R.pdf)
 * Jeudi 6 février : Programme de colle 3 de MPSI 1, DM 9 et mise à jour du cours sur les espaces vectoriels.
 * Samedi 1er février : Première version de la fiche sur les erreurs courantes.
 * Samedi 1er février : Programme de colle 2 de MPSI 1 (Polynômes).
