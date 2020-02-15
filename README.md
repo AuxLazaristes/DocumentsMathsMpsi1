@@ -4,6 +4,12 @@
 
 ## Les nouveautés du site
 
+* Samedi 15 février : Le cours sur les espaces vecoriels a été mis à jour avec un classement d'importance pour les définitions, les propositions et les théorèmes. Voici leur signification :
+    * (•◦◦) : D'utilité relative 
+    * (◦•◦) : Assez utile, mais ne contient pas d'idée importante.
+    * (◦◦•) : Très utile, mais ne contient pas d'idée importante.
+    * (••◦) : Assez utile et contient une idée importante
+    * (•••) : Très utile et contient une idée majeure.
 * Samedi 8 février :
     * Exemples de calculs de primitives du cours sur les fractions rationnelles (Cours/Notes/fractions-rationnelles.pdf)
     * Cours sur les fonctions usuelles (Cours/Revisions/cours-fonctions_usuelles.pdf)
