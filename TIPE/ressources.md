@@ -27,6 +27,3 @@ Les domaines de l'intelligence artificielle n'ont pas besoin de grandes connaiss
 * Blog d'Andrej Karpathy : http://karpathy.github.io
 * Livre : "Deep Learning with Python" de François Chollet
   C'est à mon sens le meilleur livre d'introduction aux réseaux de neurones. C'est très pratique, avec de nombreux exemples Python/Keras/TensorFlow pour entrainer ses premiers réseaux de neurones.
-* Deep Learning Book : https://www.deeplearningbook.org
-  C'est très théorique et donc assez éloigné des sujets concrets. Mais c'est considéré comme une référence.
-

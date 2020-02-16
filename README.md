@@ -6,12 +6,15 @@
 *"Lorsqu’on a vu un étudiant de deuxième ou troisième année en Faculté des Sciences peiner pendant 10 minutes pour faire un changement de variables ou une intégration par parties, on ne peut être que prodigieusement agacé, surtout (comme c’est parfois le cas) si le même étudiant assaisonne son ignorance et sa maladresse d’un jargon prétentieux et inutile qu’il n’a pas su davantage assimiler."* (Jean Dieudonné)
 
 
-*Commentaire de Gru* : Le calcul est essentiel en mathématiques. Ne le négligez jamais. Jean Dieudonné (1906-1992) a participé à la fondation du groupe Bourbaki dont il est un des membres éminents. Il est donc un des principaux auteurs des "Éléments de mathématiques". Cet ouvrage majeur a malheureusement parfois été mal compris et a surement contribué au développement de l'enseignement de "maths modernes" dans les années 1960s et 1970s où l'on enseignait les lois de composition interne et leurs propriétés dès la classe de 6e. Il est parfois bon de voir que des personnes comme Dieudonné ont toujours réfuté cette idée selon laquelle en mathématiques, le calcul et la technique étaient secondaires.
+*Commentaire de Gru* : Jean Dieudonné (1906-1992) a participé à la fondation du groupe Bourbaki dont il est un des membres éminents. Il est donc un des principaux auteurs des "Éléments de mathématiques". Cette citation est extraite de la préface de son cours d'analyse, et c'est l'enseignement des mathématiques de l'époque des "maths modernes" où les lois de composition interne étaient enseignées dès la 6e, qu'il montre du doigt. Il rappelle aux étudiants qu'avant de s'attaquer aux problèmes difficiles pour lesquels les outils abstraits comme les structures algébriques ont été créés, il est essentiel de savoir calculer. Bref, inutile de lire la "Critique de la raison pure" dès le plus jeune age : il faut savoir faire ses classes avec des choses plus facile et terre à terre.
+Dieudonné était capable d'une prétention impressionnante mêlée à une certaine naïveté. Lorsqu'il était élève de prépa, il est passé au bout de quelques semaines de sup directement en spé. Il intégrera donc l'ENS et sera classé second au concours après seulement une année de prépa. Il dira plus tard qu'il n'avait pas envie de perdre de temps avec ces formalités. ;-)
+Si vous voulez vous faire une idée du personnage, voici une interview de lui donnée en 1987 : https://unspod.unice.fr/video/4799-ja-dieudonne-pour-lhonneur-de-lesprit-humain-les-mathematiques-aujourdhui-apostrophe/ 
 
 ---
 
 ## Les nouveautés du site
 
+* Dimanche 16 février : Programme de colle 4 de MPSI 1 (Espaces vectoriels).
 * Samedi 15 février : Le cours sur les espaces vecoriels a été mis à jour avec un classement d'importance pour les définitions, les propositions et les théorèmes. Voici leur signification :
     * (•◦◦) : D'utilité relative 
     * (◦•◦) : Assez utile, mais ne contient pas d'idée importante.
