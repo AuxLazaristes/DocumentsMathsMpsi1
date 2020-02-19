@@ -11,6 +11,7 @@ L'allocution d'Emmanuel Faber, directeur général de Danone, lors de la cérém
 
 ## Les nouveautés du site
 
+* Mercredi 19 février : Emploi du temps de la semaine du concours blanc.
 * Dimanche 16 février : Programme de colle 4 de MPSI 1 (Espaces vectoriels).
 * Samedi 15 février : Le cours sur les espaces vecoriels a été mis à jour avec un classement d'importance pour les définitions, les propositions et les théorèmes. Voici leur signification :
     * (•◦◦) : D'utilité relative 
@@ -30,6 +31,32 @@ L'allocution d'Emmanuel Faber, directeur général de Danone, lors de la cérém
 * Mercredi 8 janvier : Le sujet et le corrigé du TP sur les nombres flottants.
 
 ---
+
+## Emploi du temps de la semaine du concours blanc (prévision)
+
+* Lundi 9 mars
+    *  8h00 - 12h00: Devoir de Français
+    * 13h45 - 15h45: Cours de Physique 
+    * 15h45 - 18h45: Devoir de LV1
+* Mardi 10 mars
+    *  8h00 - 10h00: Devoir de Chimie
+    * 10h00 - 12h00: Cours de Physique
+    * 13h45 - 15h45: Cours d'option info
+    * 15h45 - 17h45: Cours de Maths
+* Mercredi 11 mars
+    *  8h00 - 10h00: Cours de LV1 ?
+    * 10h00 - 12h00: Cours de Mathématiques
+    * 13h45 - 15h45: Cours de Mathématiques
+* Jeudi 12 mars
+    *  8h00 - 10h00: Cours de Mathématiques ?
+    * 10h00 - 12h00: Cours de Physique ?
+    * 13h45 - 15h45: Cours de Chimie
+    * 15h45 - 17h45: Cours d'Anglais ?
+* Vendredi 13 mars
+    *  8h00 - 12h00: Devoir de Maths
+    * 13h45 - 16h45: Devoir d'option
+* Samedi 14 mars:
+    *  7h45 - 11h45: Devoir de Physique
 
 ## Prévisions de l'avancement du cours de maths sur la prochaine période
 
