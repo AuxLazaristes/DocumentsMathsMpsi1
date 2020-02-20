@@ -41,12 +41,12 @@ L'allocution d'Emmanuel Faber, directeur général de Danone, lors de la cérém
 * Mardi 10 mars
     *  8h00 - 10h00: Devoir de Chimie
     * 10h00 - 12h00: Cours de Physique
-    * 13h45 - 15h45: Cours d'option info
+    * 13h45 - 15h45: Cours de SI / Cours d'option info
     * 15h45 - 17h45: Cours de Maths
 * Mercredi 11 mars
-    *  8h00 - 10h00: Cours de LV1 ?
+    *  8h00 - 10h00: TP de SI / Cours de LV1 ?
     * 10h00 - 12h00: Cours de Mathématiques
-    * 13h45 - 15h45: Cours de Mathématiques
+    * 13h45 - 16h45: Cours de Mathématiques
 * Jeudi 12 mars
     *  8h00 - 10h00: Cours de Mathématiques ?
     * 10h00 - 12h00: Cours de Physique ?
