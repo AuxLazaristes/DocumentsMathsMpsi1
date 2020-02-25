@@ -3,16 +3,21 @@
 
 ## Révisions pour le concours blanc.
 
-C'est parti pour la période de révision. Il y aura chaque jour des exercices dont le corrigé sera disponible le lendemain matin. Les exercices sont dans les cours correspondants disponibles sur ce site sous Maths/Cours/Revisions.
+C'est parti pour la période de révision. Il y aura chaque jour des exercices dont le corrigé sera disponible le lendemain matin. Les exercices sont dans les cours correspondants disponibles sur ce site sous Maths/Cours/Revisions. Les solutions sont disponibles petit à petit sous Maths/Cours/Revisions/CorrigeExercices.
 
 * Lundi 24 février : Nombres complexes
     * Exemple après la proposition 11 (somme des z_k / 2^k...)
     * Les 4 exemples avant la définition 9 (module et argument de 1+z+z^2...)
     * Les 2 derniers exemples du cours (27(z-1)^6... et cos(pi/7)...)
+* Mardi 25 février : Révisions d'algèbre
+    * Les 4 exemples avant 2.2.2, qui commencent par le calcul de tan(pi/12). On regardera avec intérêt les remarques précédentes.
+    * Les 2 équations avant la proposition 23
+    * Les inéquations avant la proposition 24
+    * Les 2 derniers systèmes du cours
 
 ## Le discours de la semaine.
 
-Jean-Christophe Filliâtre raconte son parcours qui l'a mené des classes préparatoires au lycée du Parc (personne n'est parfait 😉), à son poste de directeur de recherche à l'INRIA. Ses recherches sont liées à la preuve de programme et il a reçu en 2012 le ACM Software award avec l'equipe de Coq pour l'assistant de preuve Coq. Il est professeur de compilation à l'ENS Ulm et à Polytechnique. C'est un professeeur exceptionnel et je souhaite à tout le monde de pouvoir suivre un de ses cours ou d'échanger avec lui.
+Jean-Christophe Filliâtre raconte son parcours qui l'a mené des classes préparatoires au lycée du Parc (personne n'est parfait 😉), à son poste de directeur de recherche à l'INRIA. Ses recherches sont liées à la preuve de programme et il a reçu en 2012 le ACM Software award avec l'equipe de Coq pour l'assistant de preuve Coq. Il est professeur de compilation à l'ENS Ulm et à Polytechnique. C'est un professeur exceptionnel et je souhaite à tout le monde de pouvoir suivre un de ses cours ou d'échanger avec lui.
 
 [![Alt text](https://img.youtube.com/vi/LPvZqZV5LKA/0.jpg)](https://www.youtube.com/watch?v=LPvZqZV5LKA)
 
