@@ -14,6 +14,12 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Les 2 équations avant la proposition 23
     * Les inéquations avant la proposition 24
     * Les 2 derniers systèmes du cours
+    * LUn corrigé temporaire est disponible ici : https://www.dropbox.com/s/35eoheth1ylcp8t/exo-2.pdf?dl=0
+* Mercredi 26 février : Fonctions usuelles
+    * Exemple après la proposition 23
+    * Exemple après la proposition 24
+    * Exemple après la proposition 31
+    * Exemple après la proposition 32
 
 ## Le discours de la semaine.
 
