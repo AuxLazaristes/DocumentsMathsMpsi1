@@ -10,16 +10,27 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Les 4 exemples avant la définition 9 (module et argument de 1+z+z^2...)
     * Les 2 derniers exemples du cours (27(z-1)^6... et cos(pi/7)...)
 * Mardi 25 février : Révisions d'algèbre
-    * Les 4 exemples avant 2.2.2, qui commencent par le calcul de tan(pi/12). On regardera avec intérêt les remarques précédentes.
+    * Les 4 exemples avant 2.2.2, qui commencent par le calcul de tan(pi/12) (lire les remarques précédentes).
     * Les 2 équations avant la proposition 23
     * Les inéquations avant la proposition 24
     * Les 2 derniers systèmes du cours
-    * LUn corrigé temporaire est disponible ici : https://www.dropbox.com/s/35eoheth1ylcp8t/exo-2.pdf?dl=0
 * Mercredi 26 février : Fonctions usuelles
     * Exemple après la proposition 23
     * Exemple après la proposition 24
     * Exemple après la proposition 31
-    * Exemple après la proposition 32
+    * Exemple après la proposition 
+* Jeudi 27 février : Révisions analyse
+    * Le cours est disponible  dans Maths/Cours/Revisions
+    * Exemples sur la monotonie avant "le 2) Limites"
+    * Exemples de techniques de calcul au 2.3. Attention, il est strictement interdit d'utiliser le symbole "lim" et on veillera toujours à factoriser par la partie principale.
+    * Exemple avant la proposition 15
+    * Exemple avant la partie 5.3)
+* Vendredi 28 février : Réels
+* Lundi 2 mars : Suites
+* Mardi 3 mars : Dérivation
+* Mercredi 4 mars : Polynômes
+* Jeudi 5 mars : Fractions rationnelles
+* Vendredi 6 mars : Espaces vectoriels
 
 ## Le discours de la semaine.
 
