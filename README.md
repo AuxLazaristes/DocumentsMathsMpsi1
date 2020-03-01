@@ -26,6 +26,11 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exemple avant la proposition 15
     * Exemple avant la partie 5.3)
 * Vendredi 28 février : Réels
+    * Pour la suite, nous allons utiliser les exercices d'Alain Troesch. http://alain.troesch.free.fr . Cliquez sur "Exercices" dans la colonne de gauche et téléchargez le polycopié des exercices. On commence donc avec les réels, chapitre 6, page 23.
+    * Exercice 6.2
+    * Exercice 6.11
+    * Exercice 6.18. On demande de prouver l'inégalité de Cauchy-Schwartz. ![cauchy-schwarz](img/cauchy.png)
+    * Exercice 6.26
 * Lundi 2 mars : Suites
 * Mardi 3 mars : Dérivation
 * Mercredi 4 mars : Polynômes
@@ -34,9 +39,9 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
 
 ## Le discours de la semaine.
 
-Jean-Christophe Filliâtre raconte son parcours qui l'a mené des classes préparatoires au lycée du Parc (personne n'est parfait 😉), à son poste de directeur de recherche à l'INRIA. Ses recherches sont liées à la preuve de programme et il a reçu en 2012 le ACM Software award avec l'equipe de Coq pour l'assistant de preuve Coq. Il est professeur de compilation à l'ENS Ulm et à Polytechnique. C'est un professeur exceptionnel et je souhaite à tout le monde de pouvoir suivre un de ses cours ou d'échanger avec lui.
+Le discours de Steve Jobs pour la remise des diplômes de Stanford en 2005. Steve Jobs est bien connu pour son champ de distortion de la réalité et il faut toujours prendre ce qu'il dit avec beaucoup de distance. Par exemple il n'a jamais créé Pixar mais a fortement investi dans cette société dix ans après sa création. Ce discours est intéressant car on voit comment l'intérêt de Jobs pour la typographie a influencé la création des premiers Macintosh, une façon de montrer qu'il ne faut jamais oublier ce qui nous rend singulier.
 
-[![Alt text](https://img.youtube.com/vi/LPvZqZV5LKA/0.jpg)](https://www.youtube.com/watch?v=LPvZqZV5LKA)
+[![Alt text](https://img.youtube.com/vi/D1R-jKKp3NA/0.jpg)](https://www.youtube.com/watch?v=D1R-jKKp3NA)
 
 ---
 
