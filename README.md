@@ -39,7 +39,7 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
 
 ## Le discours de la semaine.
 
-Le discours de Steve Jobs pour la remise des diplômes de Stanford en 2005. Steve Jobs est bien connu pour son champ de distortion de la réalité et il faut toujours prendre ce qu'il dit avec beaucoup de distance. Par exemple il n'a jamais créé Pixar mais a fortement investi dans cette société dix ans après sa création. Ce discours est intéressant car on voit comment l'intérêt de Jobs pour la typographie a influencé la création des premiers Macintosh, une façon de montrer qu'il ne faut jamais oublier ce qui nous rend singulier.
+Le discours de Steve Jobs pour la remise des diplômes de Stanford en 2005. Steve Jobs est bien connu pour son champ de distortion de la réalité et il faut toujours prendre ce qu'il dit avec beaucoup de distance. Par exemple il n'a jamais créé Pixar mais a fortement investi dans cette société dix ans après sa création. Ce discours est intéressant car on voit comment l'intérêt de Jobs pour la typographie a influencé la création des premiers Macintosh, une façon de montrer qu'il ne faut jamais oublier ce qui nous rend singulier. Il met aussi en valeur quelque chose d'important : un échec contient toujours quelque chose de positif dont il faut savoir tirer partie.
 
 [![Alt text](https://img.youtube.com/vi/D1R-jKKp3NA/0.jpg)](https://www.youtube.com/watch?v=D1R-jKKp3NA)
 
