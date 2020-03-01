@@ -32,8 +32,19 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exercice 6.18. On demande de prouver l'inégalité de Cauchy-Schwartz. ![cauchy-schwarz](img/cauchy.png)
     * Exercice 6.26
 * Lundi 2 mars : Suites
-* Mardi 3 mars : Dérivation
+    * Exercice 12.5
+    * Exercice 12.22
+    * Exercice 12.31
+* Mardi 3 mars : Continuité, dérivation
+    * Exercice 16.4
+    * Exercice 16.17
+    * Exercice 16.28
+    * Exercice 16.31
 * Mercredi 4 mars : Polynômes
+    * Exercice 22.2
+    * Exercice 22.8
+    * Exercice 22.9
+    * Exercice 22.23
 * Jeudi 5 mars : Fractions rationnelles
 * Vendredi 6 mars : Espaces vectoriels
 
