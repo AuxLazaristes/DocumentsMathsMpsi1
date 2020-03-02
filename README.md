@@ -25,7 +25,7 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exemples de techniques de calcul au 2.3. Attention, il est strictement interdit d'utiliser le symbole "lim" et on veillera toujours à factoriser par la partie principale.
     * Exemple avant la proposition 15
     * Exemple avant la partie 5.3)
-* Vendredi 28 février : Réels
+* Vendredi 28 février : Réels  
     Pour la suite, nous allons utiliser les exercices d'Alain Troesch. http://alain.troesch.free.fr . Cliquez sur "Exercices" dans la colonne de gauche et téléchargez le polycopié des exercices. On commence donc avec les réels, chapitre 6, page 23.
     * Exercice 6.2
     * Exercice 6.11
