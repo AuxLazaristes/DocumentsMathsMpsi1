@@ -26,11 +26,12 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exemple avant la proposition 15
     * Exemple avant la partie 5.3)
 * Vendredi 28 février : Réels
-    * Pour la suite, nous allons utiliser les exercices d'Alain Troesch. http://alain.troesch.free.fr . Cliquez sur "Exercices" dans la colonne de gauche et téléchargez le polycopié des exercices. On commence donc avec les réels, chapitre 6, page 23.
+    Pour la suite, nous allons utiliser les exercices d'Alain Troesch. http://alain.troesch.free.fr . Cliquez sur "Exercices" dans la colonne de gauche et téléchargez le polycopié des exercices. On commence donc avec les réels, chapitre 6, page 23.
     * Exercice 6.2
     * Exercice 6.11
     * Exercice 6.18. On demande de prouver l'inégalité de Cauchy-Schwartz.
-    * ![cauchy-schwarz](img/cauchy.png)
+      | ![cauchy-schwarz](img/cauchy.png) |
+      | :--: | 
     * Exercice 6.26
 * Lundi 2 mars : Suites
     * Exercice 12.5
