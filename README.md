@@ -1,5 +1,8 @@
 # Documents Maths & Python en MPSI 1 - Aux Lazaristes
 
+Mardi 3 mars : superbe temps, superbe neige mais risque d'avalanche élevé. Heureusement, on peut faire des maths pour se consoler. N'oubliez pas de travailler et de retravailler l'exercice 12.31.
+
+![cauchy-schwarz](img/neige.jpg)
 
 ## Révisions pour le concours blanc.
 
@@ -35,8 +38,8 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exercice 6.26
 * Lundi 2 mars : Suites
     * Exercice 12.5
-    * Exercice 12.22
-    * Exercice 12.31
+    * Exercice 12.22 (Vous pouvez ignorer la dernière question qui est très difficile)
+    * Exercice 12.31 (Cet exercice est à savoir faire les yeux fermés)
 * Mardi 3 mars : Continuité, dérivation
     * Exercice 16.4
     * Exercice 16.17
@@ -47,8 +50,15 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exercice 22.8
     * Exercice 22.9
     * Exercice 22.23
-* Jeudi 5 mars : Fractions rationnelles
-* Vendredi 6 mars : Espaces vectoriels
+* Jeudi 5 mars : Espaces vectoriels
+    * Exercice 23.17
+    * Exercice 24.16
+    * Exercice 24.20
+* Vendredi 6 mars : Dimension finie  
+    On revient à la feuille d'exercice donnée en cours
+    * Exercice 3.1
+    * Exercice 2.2
+    * Exercice 1.4
 
 ## Le discours de la semaine.
 
