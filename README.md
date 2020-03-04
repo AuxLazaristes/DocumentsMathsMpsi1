@@ -60,7 +60,7 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
 
 Laure Saint-Raymond est une mathématicienne française, aujourd'hui professeur à l'ENS de Lyon. Elle a essentiellement travaillé autour de l'équation de Boltzmann qui est une équation aux dérivées partielles (un peu plus compliqué qu'une équation différentielle ordinaire) qui régit l'évolution des positions et des vitesses des particules dans un gaz. C'est un domaine cher à de nombreux Français puisque Pierre-Louis Lions a reçu une médaille Fields en 1994 et son élève Cédric Villani a reçu une médaille Fields en 2010 alors qu'il avait commencé sa carrière et fait sa thèse sur l'équation de Boltzmann (il y est allé calmement la première année, mais sa thèse a longtemps été considérée comme une référence sur le sujet). Laure Saint-Raymond s'intéresse notamment aux gaz raréfiés tels que ceux qu'on trouve dans la haute atmosphère et auxquels les sondes spatiales font d'abord face lors de leur entrée dans l'atmosphère. Elle est élue à l'Académie est Sciences en 2013.
 
-[![Alt text](https://img.youtube.com/vi/2Dfyub-_TLU/0.jpg)](https://www.youtube.com/watch?v=2Dfyub-_TLU)
+[![Alt text](img/lsr.jpg)](https://www.youtube.com/watch?v=2Dfyub-_TLU)
 
 ---
 
