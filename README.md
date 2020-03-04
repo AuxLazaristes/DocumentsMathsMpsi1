@@ -1,9 +1,5 @@
 # Documents Maths & Python en MPSI 1 - Aux Lazaristes
 
-Mardi 3 mars : superbe temps, superbe neige mais risque d'avalanche élevé. Heureusement, on peut faire des maths pour se consoler. N'oubliez pas de travailler et de retravailler l'exercice 12.31.
-
-![cauchy-schwarz](img/neige.jpg)
-
 ## Révisions pour le concours blanc.
 
 C'est parti pour la période de révision. Il y aura chaque jour des exercices dont le corrigé sera disponible le lendemain matin. Les exercices sont dans les cours correspondants disponibles sur ce site sous Maths/Cours/Revisions. Les solutions sont disponibles petit à petit sous Maths/Cours/Revisions/CorrigeExercices.
@@ -60,15 +56,11 @@ C'est parti pour la période de révision. Il y aura chaque jour des exercices d
     * Exercice 2.2
     * Exercice 1.4
 
-## Le discours de la semaine.
+## Le discours de la semaine
 
-Le discours de Steve Jobs pour la remise des diplômes de Stanford en 2005. Steve Jobs est bien connu pour son champ de distorsion de la réalité et il faut toujours prendre ce qu'il dit avec beaucoup de distance. Par exemple il n'a jamais créé Pixar mais a fortement investi dans cette société dix ans après sa création. Ce discours est intéressant, car on voit comment l'intérêt de Jobs pour la typographie a influencé la création des premiers Macintosh, une façon de montrer qu'il ne faut jamais oublier ce qui nous rend singuliers. Il met aussi en valeur quelque chose d'important : un échec contient toujours quelque chose de positif dont il faut savoir tirer parti.
+Laure Saint-Raymond est une mathématicienne française, aujourd'hui professeur à l'ENS de Lyon. Elle a essentiellement travaillé autour de l'équation de Boltzmann qui est une équation aux dérivées partielles (un peu plus compliqué qu'une équation différentielle ordinaire) qui régit l'évolution des positions et des vitesses des particules dans un gaz. C'est un domaine cher à de nombreux Français puisque Pierre-Louis Lions a reçu une médaille Fields en 1994 et son élève Cédric Villani a reçu une médaille Fields en 2010 alors qu'il avait commencé sa carrière et fait sa thèse sur l'équation de Boltzmann (il y est allé calmement la première année, mais sa thèse a longtemps été considérée comme une référence sur le sujet). Laure Saint-Raymond s'intéresse notamment aux gaz raréfiés tels que ceux qu'on trouve dans la haute atmosphère et auxquels les sondes spatiales font d'abord face lors de leur entrée dans l'atmosphère. Elle est élue à l'Académie est Sciences en 2013.
 
-[![Alt text](https://img.youtube.com/vi/D1R-jKKp3NA/0.jpg)](https://www.youtube.com/watch?v=D1R-jKKp3NA)
-
-Un rumeur a circulé selon laquelle la "pomme croquée" choisie par Steve Jobs était une référence à Alan Turing, le mathématicien qui a théorisé l'ordinateur en 1936 (la machine de Turing) et construit le premier "ordinateur" pour casser le codage Allemand durant la seconde guerre mondiale. Voici un court résumé de sa vie. Vous pouvez lire le livre de Philippe Langenieux-Villard, intitulé "La pomme d'Alan Turing", pour en savoir plus.
-
-[![Alt text](https://img.youtube.com/vi/gtRLmL70TH0/0.jpg)](https://www.youtube.com/watch?v=gtRLmL70TH0)
+[![Alt text](https://img.youtube.com/vi/2Dfyub-_TLU/0.jpg)](https://www.youtube.com/watch?v=2Dfyub-_TLU)
 
 ---
 
